@@ -1,7 +1,7 @@
 ### 🤙 Welcome! I'm Henrique A. Schulz
 
 <p>
-I'm a 4th period computer science student at PUCPR
+I'm a 7th period computer science student at PUCPR
 </p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-a-schulz-1007a4208/)
@@ -16,6 +16,7 @@ I'm a 4th period computer science student at PUCPR
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Last project
-I made a law firm website using the languages: HTML, CSS, JavaScript
-[![WebSite](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://eduardaschulzadv.com.br)
+## Professional experience
+<p>
+I worked for 1 year with Java for ERP WEB applications. Using velocity as a framework
+</p>
