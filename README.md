@@ -18,5 +18,5 @@ I'm a 7th period computer science student at PUCPR
 
 ## Professional experience
 <p>
-I worked for 1 year with Java for ERP WEB applications. Using velocity as a framework
+I worked for 2 year with Java for ERP WEB applications. Using velocity as a framework
 </p>
