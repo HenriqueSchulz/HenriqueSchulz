@@ -1,12 +1,6 @@
 # 👋 Hi there, I'm Henrique Anderle Schulz  
 
-🚀 Passionate Software Developer currently pursuing a **B.Sc. in Computer Science at PUCPR**.  
-💻 2 years of experience building **Web Applications at KSC BRASIL TECHNOLOGIES**.  
-🎮 Outside of coding, I enjoy **video games**, **music** and **volleyball**.  
-
 ---
-
-## 🛠️ Tech Skills  
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -25,8 +19,14 @@
 
 ---
 
-## 📜 Graduation
-- 🎓 **Computer Science student at PUCPR** (Currently enrolled)  
+## 🎓 Academics
+- **Computer Science student at PUCPR** (Currently enrolled)  
+
+---
+
+🚀 Passionate Software Developer currently pursuing a **B.Sc. in Computer Science at PUCPR**.  
+💻 2 years of experience building **Web Applications at KSC BRASIL TECHNOLOGIES**.  
+🎮 Outside of coding, I enjoy **video games**, **music** and **volleyball**.  
 
 ---
 
