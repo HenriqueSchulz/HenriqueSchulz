@@ -38,14 +38,22 @@ Software Developer focused on **Backend**, **Cloud** and **Modern Web Applicatio
 
 ---
 
-### 🎓 Academics
-- **B.Sc. in Computer Science — PUCPR**
+## 🎓 Academics
+- **Computer Science graduate at PUCPR**
 
-### 💼 About
-- Software Developer with **2+ years of experience**
-- Backend, Cloud & Distributed Systems
-- Interests: Games, Music and Volleyball
+---
 
-### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-a-schulz-1007a4208/)
+🚀 Passionate Software Developer currently pursuing a **B.Sc. in Computer Science at PUCPR**.  
+💻 2 years of experience building **Web Applications at KSC BRASIL TECHNOLOGIES**.  
+🎮 Outside of coding, I enjoy **video games**, **music** and **volleyball**.
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-a-schulz-1007a4208/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quiqueanderleschulz@gmail.com)
+
+
+---
+
+⭐ Feel free to explore my repositories and reach out for collaborations.
