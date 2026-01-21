@@ -39,13 +39,12 @@ Software Developer focused on **Backend**, **Cloud** and **Modern Web Applicatio
 ---
 
 ## 🎓 Academics
-- **Computer Science graduate at PUCPR**
+- **B.Sc. in Computer Science — PUCPR**
 
 ---
 
-🚀 Passionate Software Developer currently pursuing a **B.Sc. in Computer Science at PUCPR**.  
-💻 2 years of experience building **Web Applications at KSC BRASIL TECHNOLOGIES**.  
-🎮 Outside of coding, I enjoy **video games**, **music** and **volleyball**.
+- 💻 2 years of experience building **Web Applications at KSC BRASIL TECHNOLOGIES**.  
+- 🎮 Outside of coding, I enjoy **video games**, **music** and **volleyball**.
 
 ---
 
