@@ -40,6 +40,7 @@ Software Developer focused on **Backend**, **Cloud** and **Modern Web Applicatio
 
 ## 🎓 Academics
 - **B.Sc. in Computer Science — PUCPR**
+- **M.Sc. in Computing (in progress) — PUCPR**
 
 ---
 
